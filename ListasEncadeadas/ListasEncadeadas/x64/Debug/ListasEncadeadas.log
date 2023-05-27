@@ -1,0 +1,3 @@
+﻿  ListInt.cpp
+C:\Users\devel\Documents\ListasEncadeadas\ListasEncadeadas\ListInt.cpp(22): warning C4715: 'Add': nem todos os caminhos de controle retornam um valor
+  ListasEncadeadas.vcxproj -> C:\Users\devel\Documents\ListasEncadeadas\x64\Debug\ListasEncadeadas.exe
